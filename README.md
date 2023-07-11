@@ -26,18 +26,18 @@ In this section, you will learn some basics about R and get ready to dive into w
 
 R is a programming language. It is a powerful and accessible tool that will help you to understand quantitative data. Unlike other expensive software (e.g. SPSS, STATA), R is free and open-source. The R community is also very supportive, offering help and examples to solve virtually any problem. Beyond this, community members also create and share new packages to increase R functionality.
 
-<img src="https://github.com/kyla787/Beginner-2023/blob/main/R_use_2022.png" width=60% height=60%>
+<img src="https://github.com/hacking4justice/Beginner-2023/blob/main/R_use_2022.png" width=60% height=60%>
 
 
 ### Download and Install R
 
 First, you will need to download R on your computer from [CRAN](https://cran.r-project.org/), short for the **C**omprehensive **R** **A**rchive **N**etwork. You will learn more about CRAN in Day One. For now, follow the appropriate links depending if you are on a Mac or Windows machine. For example, a Mac user would click here:
 
-<img src="https://github.com/kyla787/Beginner-2023/blob/main/cran1.png" width=75% height=75%>
+<img src="https://github.com/hacking4justice/Beginner-2023/blob/main/cran1.png" width=75% height=75%>
 
 Also be sure to note that the version of R you download is compatible with the operating and processing systems on your machine. For example, for Mac, the most recent version of R (4.3.1 'Beagle Scouts') is compatible with OS X 11 (Big Sur) and higher. Likewise, note whether you have an Intel or Apple M1/M2 processor by clicking on the left-hand Apple icon and 'About This Mac.' If your machine is from 2020 or older, it likely has an Intel processor; newer Macs will have M1 or M2. Download the appropriate version of R for you. 
 
-<img src="https://github.com/kyla787/Beginner-2023/blob/main/cran2_1.png" width=30% height=30%>
+<img src="https://github.com/hacking4justice/Beginner-2023/blob/main/cran2_1.png" width=30% height=30%>
 
 
 Once the R setup file is downloaded, follow the instructions to install R on your machine using the default options.
@@ -50,7 +50,7 @@ RStudio is an application that makes working with R easier and more fun. RStudio
 
 You can download RStudio [here](https://posit.co/download/rstudio-desktop/). When you click the link, it should recognize the most appropriate version of RStudio for your machine, so simply click on the blue button that looks like this (for Mac users):
 
-<img src="https://github.com/kyla787/Beginner-2023/blob/main/rstudio1.png" width=40% height=40%>
+<img src="https://github.com/hacking4justice/Beginner-2023/blob/main/rstudio1.png" width=40% height=40%>
 
 Once the RStudio setup file is downloaded:  
 
@@ -62,7 +62,7 @@ Windows users: Run the downloaded setup file and follow the instructions to inst
 
 In Day One of the workshop, we will focus on the Sentencing table. You can download this dataset [here](https://datacatalog.cookcountyil.gov/Courts/Sentencing/tg8v-tm6u). 
 
-<img src="https://github.com/kyla787/Beginner-2023/blob/main/ccsao1.png" width=75% height=75%>
+<img src="https://github.com/hacking4justice/Beginner-2023/blob/main/ccsao1.png" width=75% height=75%>
 
 As illustrated above, click "Export" and then "CSV" to download the data as a .csv file. Save this file in a clearly labeled, easily-accesible folder. For example, you might create a folder on your Desktop called "SAO-data." This will help you easily find the data during the Afternoon session of Day One. 
 
